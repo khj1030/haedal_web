@@ -1,0 +1,22 @@
+.text {
+    align-items: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 9px;
+}
+
+.image {
+    padding-top: 10px;
+}
+
+.element {
+    display: flex;
+}
+
+.checkbox {
+    width: 20px;
+    height: 20px;
+    border: 1px solid green;
+    border-radius: 11px; 
+    margin: 10px;
+}
